@@ -1,4 +1,5 @@
 ## index
+
 * HW1
   * Raw image to jpg format
   *Color to gray scale
@@ -16,6 +17,15 @@
   * PSNR evaluation
   
 * HW2
-  * 
-
+  * First order edge detection
+  * Second order edge detection
+  * Gaussian noise remove
+  * Sobel gradient direction
+  * Connected component labeling
+  * Canny edge detector
+  * Edge crispening
+  * Geometrical transformation
+  
+* HW3
+ * 
   
