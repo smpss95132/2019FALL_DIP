@@ -27,5 +27,8 @@
   * Geometrical transformation
   
 * HW3
- * 
+  * Laws' method for semantic segmentation
+  * K-means for semantic segmentation
+  * Non-DL based method for charactor recognition
+ 
   
